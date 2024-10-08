@@ -1,8 +1,8 @@
-img.sidebyside{
-width: 250px; 
-    height: 250px;
-    display: inline-block;
-margin-right: 10px;
+img.side-by-side {
+    width: 150px;
+    height: auto; 
+    display: inline-block; 
+    margin-right: 10px; 
 }
 
 .container {
