@@ -1,3 +1,9 @@
+.sidebyside{
+width: 150px; 
+    height: 150px;
+    display: inline-block;
+}
+
 .container {
     width: 960px;          
     margin: 20px auto;      
