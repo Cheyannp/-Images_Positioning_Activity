@@ -1,6 +1,6 @@
-.sidebyside{
-width: 300px; 
-    height: 300px;
+img.sidebyside{
+width: 100px; 
+    height: 100px;
     display: inline-block;
 }
 
