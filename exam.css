@@ -60,14 +60,14 @@ body,td,th {
 	}
 
 #looks {
-	background-color: #FF3;
+	background-color: #DBCDF0;
 	float: left;
 	width: 300px;
 	padding:1em;
 	margin:0px 1em 1em 0px;
 }
 
-.heading {background-color:#FF3;
+.heading {background-color:#DBCDF0;
 padding:.75em;
 text-align:center;}
 
@@ -81,4 +81,4 @@ margin:0px auto
 text-align:right;
 float:right;
 font-style:italic;
-background-color:#99FF00;}
+background-color:#C9E4DE;}
